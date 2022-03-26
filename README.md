@@ -1,6 +1,6 @@
 # BlogClubUiDesign
 
-This is a ui design BlogClub app for social media.
+This is ui Design blogClub app used for social media.
 
 In this project, many widgets and concepts such as stack, flutter svg, fluttergen, Google fonts, carousel, Sliver and more have been implemented.
 
